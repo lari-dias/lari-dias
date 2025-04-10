@@ -1,9 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a4ec7&height=100"/>
-
-<h1 align = "center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mulish&weight=500&size=40&pause=1000&color=2a4ec7&center=true&vCenter=true&random=false&width=635&height=50&lines=Olá+!+Eu sou +Larissa+Dias.;Estou+em+transição+de+carreira.;" alt="Typing SVG" /></a></h1>
-
-<div>
-  <h2 align "justified">Sobre mim</h2>
+<h2 align "justified">Sobre mim</h2>
 
 <p><br>💡| Curiosa, exploro o máximo de áreas tecnológicas que posso.<br>📚| Estudante de Dev Full Stack pela Recode.<br>🌱| Aprendo um pouquinho a cada dia.<br>📌| Futura Desenvolvedora.
 </div>
@@ -40,4 +35,3 @@
   />
 
 </p>
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=2a4ec7&height=100"/>
