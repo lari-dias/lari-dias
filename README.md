@@ -21,7 +21,7 @@
   </p>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <img 
     alt="GitHub Stats" 
     height="200" 
