@@ -1,4 +1,3 @@
-# Larissa Dias
 <h2 align "justified">Sobre mim</h2>
 <p><br>💡| Curiosa, exploro o máximo de áreas tecnológicas que posso.<br>📚| Estudante de Dev Full Stack pela Recode.<br>🌱| Aprendo um pouquinho a cada dia.<br>📌| Futura Desenvolvedora.
 </div>
