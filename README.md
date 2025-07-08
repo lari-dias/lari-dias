@@ -1,7 +1,7 @@
 <h2 align="justify">Sobre mim</h2>
 <p>
   💡 | Curiosa, exploro o máximo de áreas tecnológicas que posso.<br>
-  📚 | Formada pela Recode Pro IA.<br>
+  📚 | Estudante de Desenvolvimento de Software.<br>
   🌱 | Aprendo um pouquinho a cada dia.<br>
   📌 | Fullstack Developer.
 </p>
