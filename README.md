@@ -17,6 +17,7 @@
       <img align="center" alt="Lari-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <img align="center" alt="Lari-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
       <img align="center" alt="Lari-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img align="center" alt="Lari-Git" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg)" />
     </div>
   </p>
 </div>
