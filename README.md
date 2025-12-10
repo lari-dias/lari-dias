@@ -3,7 +3,7 @@
   💡 | Curiosa, exploro o máximo de áreas tecnológicas que posso.<br>
   📚 | Estudante de Desenvolvimento de Software.<br>
   🌱 | Aprendo um pouquinho a cada dia.<br>
-  📌 | Developer.
+  📌 | Full Stack Developer.
 </p>
 
 <div>
