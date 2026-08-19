@@ -1,11 +1,8 @@
 <h2 align="justify">Sobre mim</h2>
 <p>
 💡 | Curiosa e apaixonada por tecnologia, sempre buscando aprender e evoluir.
-  
 📚 | Estudante de Análise e Desenvolvimento de Sistemas.
-
 🌱 | Desenvolvedora em formação, com foco em **Back-end Java**.
-
 🚀 | Construindo projetos e aprimorando minhas habilidades em desenvolvimento de software.
 </p>
 
