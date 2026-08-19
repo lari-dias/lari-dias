@@ -1,14 +1,3 @@
-<h2 align="justify">Sobre mim</h2>
-<p>
-💡 | Apaixonada por tecnologia.
-  
-📚 | Estudante de ADS.
-
-🌱 | Desenvolvedora em formação.
-
-🚀 | Foco em **Back-end Java**.
-</p>
-
 <div>
   <h2 align="justify">Tecnologias</h2>
   <p align="center">
