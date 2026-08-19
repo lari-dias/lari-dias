@@ -1,9 +1,9 @@
 <h2 align="justify">Sobre mim</h2>
 <p>
-  💡 | Curiosa, exploro o máximo de áreas tecnológicas que posso.<br>
-  📚 | Estudante de Desenvolvimento de Software.<br>
-  🌱 | Aprendo um pouquinho a cada dia.<br>
-  📌 | Desenvolvedora Full-Stack.
+💡 | Curiosa e apaixonada por tecnologia, sempre buscando aprender e evoluir.
+📚 | Estudante de Análise e Desenvolvimento de Sistemas.
+🌱 | Desenvolvedora em formação, com foco em **Back-end Java**.
+🚀 | Construindo projetos e aprimorando minhas habilidades em desenvolvimento de software.
 </p>
 
 <div>
